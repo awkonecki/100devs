@@ -152,6 +152,26 @@ Material considerations include information starting from the 2022 cohort.
 ### Material
 [ ] Watch: https://www.youtube.com/watch?v=OaglXfjsBaE&list=PLBf-QcbaigsJysJ-KFZvLGJvvW-3sfk1S&index=9  
 
+## Class 10
+### Material
+[ ] Watch: https://www.youtube.com/watch?v=WftjV2L7oyk&list=PLBf-QcbaigsJysJ-KFZvLGJvvW-3sfk1S&index=10  
+[ ] Follow-Along: Layout Practice  
+> [ ] [style.css](./Materials/class10-materials/template/css/style.css)  
+> [ ] [index.html](./Materials/class10-materials/template/index.html)  
+
+[ ] Follow-Along: Layout Photos  
+> [ ] [BBC](./Materials/class10-materials/layout-photos/bbc-image.png)  
+> [ ] [Cuisine Restaurant](./Materials/class10-materials/layout-photos/cuisine-restaurant-mithun-ray.png)  
+> [ ] [Hair Salon](./Materials/class10-materials/layout-photos/hair-salon-ajmal-khan.webp)  
+> [ ] [Khan Academy](./Materials/class10-materials/layout-photos/khan-academy.png)  
+> [ ] [Level-Ground](./Materials/class10-materials/layout-photos/level-ground-wireframe.png)  
+> [ ] [Pushwork](./Materials/class10-materials/layout-photos/pushwork-homepage-wireframe-sergey-pikin.webp)  
+> [ ] [Source](./Materials/class10-materials/layout-photos/source-wireframe-max-schneider.webp)  
+> [ ] [Techcrunch](./Materials/class10-materials/layout-photos/techcrunch.png)  
+
+### Homework
+[ ] Watch: https://www.youtube.com/watch?v=hdI2bqOjy3c
+
 ## Appendix
 > ### Supportive Material
 > [MSDN Web Docs][1]
