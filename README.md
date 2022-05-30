@@ -371,6 +371,10 @@ Material considerations include information starting from the 2022 cohort.
 ### Material
 [ ] Watch: https://www.youtube.com/watch?v=YUQUGtUbwMY&list=PLBf-QcbaigsJysJ-KFZvLGJvvW-3sfk1S&index=17
 
+## Class 18
+### Material
+[ ] Watch: https://www.youtube.com/watch?v=cL0qP6kM_1U&list=PLBf-QcbaigsJysJ-KFZvLGJvvW-3sfk1S&index=18
+
 ## Appendix
 > ### Supportive Material
 > [MSDN Web Docs][1]  
