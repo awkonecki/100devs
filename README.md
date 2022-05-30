@@ -432,6 +432,37 @@ Material considerations include information starting from the 2022 cohort.
 [ ] Follow-Along: Review Winter Games  
 > [main.js](./Materials/class20-materials/review-winter-games/js/main.js)
 
+## Class 21
+### Material
+[ ] Watch: https://www.youtube.com/watch?v=LTda62-jyoM&list=PLBf-QcbaigsJysJ-KFZvLGJvvW-3sfk1S&index=21  
+[ ] Follow-Along: Alien Rangers Review  
+> [main.js](./Materials/class21-materials/alien-rangers-review/js/main.js)  
+
+[ ] Follow-Along: Mighty Morphin Review  
+> [main.js](./Materials/class21-materials/mighty-morphin-review/js/main.js)  
+
+[ ] Follow-Along: Objects Dog Photos  
+> [main.js](./Materials/class21-materials/objects-dog-photos/js/main.js)  
+
+[ ] Follow-Along: Objects NASA 
+> [main.js](./Materials/class21-materials/objects-nasa/js/main.js)  
+
+[ ] Follow-Along: Objects Shots  
+> [main.js](./Materials/class21-materials/objects-shots/js/main.js)  
+
+[ ] Follow-Along: Objects Street Fighter  
+> [main.js](./Materials/class21-materials/objects-street-fighter/js/main.js)  
+
+[ ] Follow-Along: Objects Zeo  
+> [main.js](./Materials/class21-materials/objects-zeo/js/main.js)  
+
+### Homework
+[ ] Complete:  
+> [ ] [Day 04 - Array Cardio - DO IT AGAIN](https://javascript30.com)
+
+[ ] Read:  
+> [ ] [JS Objects](https://javascript.info/object)
+
 ## Appendix
 > ### Supportive Material
 > [MSDN Web Docs][1]  
