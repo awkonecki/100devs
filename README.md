@@ -21,7 +21,7 @@ Material considerations include information starting from the 2022 cohort.
 > [ ] Follow-Along: [brownies.html](./Materials/class02-materials/brownies.html)
 
 > ### Homework
-> [ ] Read: https://learn.shayhowe.com  
+> [ ] Read: https://learn.shayhowe.com/html-css/  
 > [ ] Build: HTML for [BBC Website](./Materials/class02-materials/bbc-image.png)
 
 > ### Reference Material
@@ -40,6 +40,23 @@ Material considerations include information starting from the 2022 cohort.
 > [ ] Complete: [BBC Layout](./Materials/class03-materials/bbc-image.png)  
 > [ ] Complete: [Khan-academy Layout](./Materials/class03-materials/khan-academy.png)  
 > [ ] Complete: [Techcrunch Layout](./Materials/class03-materials/techcrunch.png)
+
+## Day 4
+> ### Material
+> [ ] Watch: https://www.youtube.com/watch?v=Q1Obtn29twk&list=PLBf-QcbaigsJysJ-KFZvLGJvvW-3sfk1S&index=4  
+> [ ] Follow-Along: Basic-CSS
+>> [ ] [style.css](./Materials/class04-materials/basic-css/css/style.css)  
+>> [ ] [main.js](./Materials/class04-materials/basic-css/js/main.js)  
+>> [ ] [index.html](./Materials/class04-materials/basic-css/index.html)
+>
+> [ ] Follow-Along: Relationship-CSS
+>> [ ] [style.css](./Materials/class04-materials/relationship-css/css/style.css)  
+>> [ ] [main.js](./Materials/class04-materials/relationship-css/js/main.js)  
+>> [ ] [index.html](./Materials/class04-materials/relationship-css/index.html)
+
+> ### Homework
+> [ ] Complete: https://www.typingtest.com  
+> [ ] Complete: https://www.keybr.com
 
 ## Appendix
 > ### Supportive Material
