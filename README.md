@@ -654,6 +654,10 @@ Read:
 > [ ] [MSDN - Promises](https://developer.mozilla.org/en-US/docs/learn/javascript/asynchronous/promises)  
 > [ ] [Modern JS for Dinosaurs](https://medium.com/the-node-js-collection/modern-javascript-explained-for-dinosaurs-f695e9747b70)
 
+## Class 34
+### Material
+[ ] Watch: https://www.youtube.com/watch?v=KM1RyffIKMg&list=PLBf-QcbaigsJysJ-KFZvLGJvvW-3sfk1S&index=33  
+
 ## Appendix
 > ### Supportive Material
 > [MSDN Web Docs][1]  
