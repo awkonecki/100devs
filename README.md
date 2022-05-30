@@ -148,6 +148,10 @@ Material considerations include information starting from the 2022 cohort.
 [ ] Complete: [Pushwork Layout & Media Queries](./Materials/class08-materials/homework-layout-photos/pushwork-homepage-wireframe-sergey-pikin.webp)  
 [ ] Complete: [Source Layout & Media Queries](./Materials/class08-materials/homework-layout-photos/source-wireframe-max-schneider.webp)
 
+## Class 09
+### Material
+[ ] Watch: https://www.youtube.com/watch?v=OaglXfjsBaE&list=PLBf-QcbaigsJysJ-KFZvLGJvvW-3sfk1S&index=9  
+
 ## Appendix
 > ### Supportive Material
 > [MSDN Web Docs][1]
