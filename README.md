@@ -325,10 +325,24 @@ Material considerations include information starting from the 2022 cohort.
 > [main.js](./Materials/class14-materials/temperature-converter/js/main.js)  
 > [index.html](./Materials/class14-materials/temperature-converter/index.html)
 
+## Class 15
+### Material
+[ ] Watch: https://www.youtube.com/watch?v=av6iPI_zJTU&list=PLBf-QcbaigsJysJ-KFZvLGJvvW-3sfk1S&index=15
+
+### Reference Material
+[ ] [Example Contract][1000]  
+[ ] [Webdev Proposal][1001]  
+
+### Homework
+[ ] Complete: Setup personal portfolio
+[ ] Complete: Proposal/contract
+
 ## Appendix
 > ### Supportive Material
 > [MSDN Web Docs][1]  
 > [JavaScript Info][2]  
+> [Example Contract][1000]  
+> [Webdev Proposal][1001]  
 
 > ### Templates
 > [Normalize CSS][100]  
@@ -342,3 +356,5 @@ Material considerations include information starting from the 2022 cohort.
 [101]: ./Materials/class06-materials/template/css/reset.css "Reset CSS"  
 [102]: ./Materials/class06-materials/template/css/style.css "Style CSS"  
 [103]: ./Materials/class06-materials/template/index.html "Index HTML"  
+[1000]: ./Materials/class15-materials/Contract%20Killer%203.md "Contract Killer"  
+[1001]: ./Materials/class15-materials/webdev-proposal.pdf "Webdev Proposal"  
