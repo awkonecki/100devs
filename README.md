@@ -528,6 +528,10 @@ Material considerations include information starting from the 2022 cohort.
 [ ] Complete:
 > [Introduction to Github](https://docs.microsoft.com/en-us/learn/modules/introduction-to-github/?ocid=aid3038567_RequestedResources_ThankYou_DevComm&eventId=LearnwithLeonstream_ggNxpTZxIzb_)
 
+## Class 24
+### Material
+[ ] Watch: https://www.youtube.com/watch?v=UpsonO_vBNk&list=PLBf-QcbaigsJysJ-KFZvLGJvvW-3sfk1S&index=23
+
 ## Appendix
 > ### Supportive Material
 > [MSDN Web Docs][1]  
