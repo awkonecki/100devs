@@ -212,9 +212,42 @@ Material considerations include information starting from the 2022 cohort.
 > [ ] [Restaurant](./Materials/class10-materials/layout-photos/cuisine-restaurant-mithun-ray.png)  
 > [ ] [Hair Salon](./Materials/class10-materials/layout-photos/hair-salon-ajmal-khan.webp)
 
+## Class 12
+### Material
+[ ] Watch: https://www.youtube.com/watch?v=_A20kVsaqIk&list=PLBf-QcbaigsJysJ-KFZvLGJvvW-3sfk1S&index=12  
+[ ] Follow-Along: Angry Parent Simulator  
+> [ ] [style.css](./Materials/class12-materials/angry-parent-simulator/css/style.css)  
+> [ ] [main.js](./Materials/class12-materials/angry-parent-simulator/js/main.js)  
+> [ ] [index.html](./Materials/class12-materials/angry-parent-simulator/index.html)  
+
+[ ] Follow-Along: Background Picker  
+> [ ] [style.css](./Materials/class12-materials/background-picker/css/style.css)  
+> [ ] [main.js](./Materials/class12-materials/background-picker/js/main.js)  
+> [ ] [index.html](./Materials/class12-materials/background-picker/index.html)  
+
+[ ] Follow-Along: Class Weekend Boring  
+> [ ] [style.css](./Materials/class12-materials/class-weekend-boring/css/style.css)  
+> [ ] [main.js](./Materials/class12-materials/class-weekend-boring/js/main.js)  
+> [ ] [index.html](./Materials/class12-materials/class-weekend-boring/index.html)  
+
+[ ] Follow-Along: Simple Calculator  
+> [ ] [style.css](./Materials/class12-materials/simple-calculator/css/style.css)  
+> [ ] [main.js](./Materials/class12-materials/simple-calculator/js/main.js)  
+> [ ] [index.html](./Materials/class12-materials/simple-calculator/index.html)
+
+### Homework
+[ ] Read: [Variables + Tasks](https://javascript.info/variables)
+[ ] Read: [Functions + Tasks](https://javascript.info/function-basics)  
+[ ] Complete: Delete and Code JS for all class material  
+> [ ] Angry Parent Simulator  
+> [ ] Background Picker  
+> [ ] Class Weekend Boring  
+> [ ] Simple Calculator
+
 ## Appendix
 > ### Supportive Material
-> [MSDN Web Docs][1]
+> [MSDN Web Docs][1]  
+> [JavaScript Info][2]  
 
 > ### Templates
 > [Normalize CSS][100]  
@@ -223,6 +256,7 @@ Material considerations include information starting from the 2022 cohort.
 > [Index.html][103]
 
 [1]: <https://developer.mozilla.org/en-US/docs/Web/HTML> "MSDN Web Docs"  
+[2]: <https://javascript.info> "JS Info"
 [100]: ./Materials/class06-materials/template/css/normalize.css "Normalized CSS"  
 [101]: ./Materials/class06-materials/template/css/reset.css "Reset CSS"  
 [102]: ./Materials/class06-materials/template/css/style.css "Style CSS"  
