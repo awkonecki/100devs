@@ -399,6 +399,39 @@ Material considerations include information starting from the 2022 cohort.
 > [ ] [Codewars](https://codewars.com)  
 > [ ] [Day 04 - Array Cardio](https://javascript30.com)  
 
+## Class 20
+### Material
+[ ] Watch: https://www.youtube.com/watch?v=75TQEQ6wxAE&list=PLBf-QcbaigsJysJ-KFZvLGJvvW-3sfk1S&index=20  
+[ ] Follow-Along: Arrays Worldwide Cheersmack  
+> [main.js](./Materials/class20-materials/arrays-worldwide-cheersmack/js/main.js)  
+
+[ ] Follow-Along: Objects Dog Photos  
+> [main.js](./Materials/class20-materials/objects-dog-photos/js/main.js)  
+
+[ ] Follow-Along: Objects Listen to your Heart  
+> [main.js](./Materials/class20-materials/objects-listen-to-your-heart/js/main.js)  
+
+[ ] Follow-Along: Objects NASA  
+> [main.js](./Materials/class20-materials/objects-nasa/js/main.js)  
+
+[ ] Follow-Along: Objects Shots  
+> [main.js](./Materials/class20-materials/objects-shots/js/main.js)  
+
+[ ] Follow-Along: Objects Street Fighter  
+> [main.js](./Materials/class20-materials/objects-street-fighter/js/main.js)  
+
+[ ] Follow-Along: Review in Paradise  
+> [main.js](./Materials/class20-materials/review-in-paradise/js/main.js)  
+
+[ ] Follow-Along: Review in Paradise After Paradise  
+> [main.js](./Materials/class20-materials/review-in-paradise-after-paradise/js/main.js)  
+
+[ ] Follow-Along: Review Summer Games  
+> [main.js](./Materials/class20-materials/review-summer-games/js/main.js)  
+
+[ ] Follow-Along: Review Winter Games  
+> [main.js](./Materials/class20-materials/review-winter-games/js/main.js)
+
 ## Appendix
 > ### Supportive Material
 > [MSDN Web Docs][1]  
