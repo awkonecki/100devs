@@ -364,7 +364,12 @@ Material considerations include information starting from the 2022 cohort.
 ### Homework
 [ ] Read: [The JS Way][3]  
 [ ] Read: [Eloquent JS Chapters 1 - 3][4]  
-[ ] Complete: [Intro to JS Parts 1-6](https://www.codecademy.com/learn/introduction-to-javascript)
+[ ] Complete: [Intro to JS Parts 1-6](https://www.codecademy.com/learn/introduction-to-javascript)  
+[ ] Watch: [Git Crash Course](https://www.youtube.com/watch?v=SWYqp7iY_Tc)  
+
+## Class 17
+### Material
+[ ] Watch: https://www.youtube.com/watch?v=YUQUGtUbwMY&list=PLBf-QcbaigsJysJ-KFZvLGJvvW-3sfk1S&index=17
 
 ## Appendix
 > ### Supportive Material
