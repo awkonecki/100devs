@@ -244,6 +244,53 @@ Material considerations include information starting from the 2022 cohort.
 > [ ] Class Weekend Boring  
 > [ ] Simple Calculator
 
+## Class 13
+### Material
+[ ] Watch: https://www.youtube.com/watch?v=pS6ykGL-fRE&list=PLBf-QcbaigsJysJ-KFZvLGJvvW-3sfk1S&index=13  
+[ ] Follow Along: Angry Parent Simulator  
+> [main.js](./Materials/class13-materials/angry-parent-simulator/js/main.js)
+
+[ ] Follow Along: Bachelor Code Example 1  
+> [main.js](./Materials/class13-materials/bachelor-code/1/js/main.js)  
+> [index.html](./Materials/class13-materials/bachelor-code/1/index.html)
+
+[ ] Follow Along: Bachelor Code Example 2  
+> [main.js](./Materials/class13-materials/bachelor-code/2/js/main.js)  
+> [index.html](./Materials/class13-materials/bachelor-code/2/index.html)
+
+[ ] Follow Along: Bachelor Code Example 3  
+> [main.js](./Materials/class13-materials/bachelor-code/3/js/main.js)  
+> [index.html](./Materials/class13-materials/bachelor-code/3/index.html)
+
+[ ] Follow Along: Bring It Home Practice  
+> [main.js](./Materials/class13-materials/bring-it-home-practice/js/main.js)  
+> [index.html](./Materials/class13-materials/bring-it-home-practice/index.html)
+
+[ ] Follow Along: Class Weekend Boring  
+> [main.js](./Materials/class13-materials/class-weekend-boring/js/main.js)  
+> [index.html](./Materials/class13-materials/class-weekend-boring/index.html)
+
+[ ] Follow Along: Simple Functions  
+> [main.js](./Materials/class13-materials/simple-functions/js/main.js)  
+> [index.html](./Materials/class13-materials/simple-functions/index.html)
+
+[ ] Follow Along: Temperature Converter  
+> [main.js](./Materials/class13-materials/temperature-converter/js/main.js)  
+> [index.html](./Materials/class13-materials/temperature-converter/index.html)
+
+### Homework
+[ ] Read: [JS Expressions](https://javascript.info/function-expressions)  
+[ ] Read: [JS Arrow Functions](https://javascript.info/arrow-functions-basics)  
+[ ] Read: [Repeat Statements](https://github.com/thejsway/thejsway/blob/master/manuscript/chapter04.md)
+[ ] Complete: Delete and Code JS for all class material  
+> [ ] Angry Parent Simulator  
+> [ ] Bachelor Code Example 1  
+> [ ] Bachelor Code Example 2  
+> [ ] Bachelor Code Example 3  
+> [ ] Class Weekend Boring  
+> [ ] Simple Functions  
+> [ ] Temperature Converter
+
 ## Appendix
 > ### Supportive Material
 > [MSDN Web Docs][1]  
