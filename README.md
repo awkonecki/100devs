@@ -532,6 +532,37 @@ Material considerations include information starting from the 2022 cohort.
 ### Material
 [ ] Watch: https://www.youtube.com/watch?v=UpsonO_vBNk&list=PLBf-QcbaigsJysJ-KFZvLGJvvW-3sfk1S&index=23
 
+~~## Class 25~~
+
+## Class 26
+### Material
+[ ] Watch: https://www.youtube.com/watch?v=WcSTeotmJtw&list=PLBf-QcbaigsJysJ-KFZvLGJvvW-3sfk1S&index=25  
+[ ] Follow-Along: API Template  
+> [main.js](./Materials/class26-materials/api-template/js/main.js)  
+
+[ ] Follow-Along: Objects Constructor Fun  
+> [main.js](./Materials/class26-materials/objects-constructor-fun/js/main.js)
+
+[ ] Follow-Along: Objects Dog Photos  
+> [main.js](./Materials/class26-materials/objects-dog-photos/js/main.js)
+
+[ ] Follow-Along: Objects Lost Galaxy  
+> [main.js](./Materials/class26-materials/objects-lost-galaxy/js/main.js)
+
+[ ] Follow-Along: Objects NASA  
+> [main.js](./Materials/class26-materials/objects-nasa/js/main.js)
+
+[ ] Follow-Along: Objects Shots  
+> [main.js](./Materials/class26-materials/objects-shots/js/main.js)
+
+[ ] Follow-Along: Turbo Review  
+> [main.js](./Materials/class26-materials/turbo-review/js/main.js)
+
+### Homework
+[ ] Complete:
+> [ ] CocktailDB API work w/ spaces  
+> [ ] Find three APIs & build three simple apps using those APIs [Refer](https://github.com/public-apis/public-apis)
+
 ## Appendix
 > ### Supportive Material
 > [MSDN Web Docs][1]  
