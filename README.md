@@ -107,7 +107,19 @@ Material considerations include information starting from the 2022 cohort.
 >> [ ] [style.css][102]
 >> [ ] [index.html][103]
 
-> ### Homework
+## Class 07
+### Material
+[ ] Watch: https://www.youtube.com/watch?v=k8r3B0JGMt4&list=PLBf-QcbaigsJysJ-KFZvLGJvvW-3sfk1S&index=7  
+[ ] Follow-Along: Box Model Practice
+> [ ] [style.css](./Materials/class07-materials/box-model-practice/css/style.css)  
+> [ ] [index.html](./Materials/class07-materials/box-model-practice/index.html)  
+
+[ ] Follow-Along: Flexbox Example  
+> [ ] [style.css](./Materials/class07-materials/flexbox-example/css/style.css)  
+> [ ] [index.html](./Materials/class07-materials/flexbox-example/index.html)
+
+### Homework
+[ ] Complete: http://flexboxfroggy.com
 
 ## Appendix
 > ### Supportive Material
