@@ -658,6 +658,28 @@ Read:
 ### Material
 [ ] Watch: https://www.youtube.com/watch?v=KM1RyffIKMg&list=PLBf-QcbaigsJysJ-KFZvLGJvvW-3sfk1S&index=33  
 
+## Class 35
+### Material
+[ ] Watch: https://www.youtube.com/watch?v=IUCnAhr61pg&list=PLBf-QcbaigsJysJ-KFZvLGJvvW-3sfk1S&index=34  
+[ ] Follow-Along: Async Practice  
+> [main.js](./Materials/class35-materials/async-practice/js/main.js)  
+
+[ ] Follow-Along: Node Backend Simple JSON  
+> [main.js](./Materials/class35-materials/node-backend-simple-json/js/main.js)  
+> [server.js](./Materials/class35-materials/node-backend-simple-json/server.js)  
+> [index.html](./Materials/class35-materials/node-backend-simple-json/index.html)  
+> [otherpage.html](./Materials/class35-materials/node-backend-simple-json/otherpage.html)  
+> [otherotherpage.html](./Materials/class35-materials/node-backend-simple-json/otherotherpage.html)  
+
+[ ] Follow-Along: Node Intro Demo  
+> [demo.js](./Materials/class35-materials/node-intro-demo/demo.js)  
+> [demofile.html](./Materials/class35-materials/node-intro-demo/demofile.html)  
+
+### Homework
+Complete:  
+> [ ] Make 'node-backend-simple-json' Project more Readable  
+> [ ] Make a coinflip game, with randomization occurring on the server
+
 ## Appendix
 > ### Supportive Material
 > [MSDN Web Docs][1]  
