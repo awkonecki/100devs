@@ -375,6 +375,30 @@ Material considerations include information starting from the 2022 cohort.
 ### Material
 [ ] Watch: https://www.youtube.com/watch?v=cL0qP6kM_1U&list=PLBf-QcbaigsJysJ-KFZvLGJvvW-3sfk1S&index=18
 
+## Class 19
+### Material
+[ ] Watch: https://www.youtube.com/watch?v=68Li7ukgDKg&list=PLBf-QcbaigsJysJ-KFZvLGJvvW-3sfk1S&index=19  
+[ ] Follow-Along: Arrays Fight to the Finish  
+> [main.js](./Materials/class19-materials/arrays-fight-to-the-finish/js/main.js)  
+
+[ ] Follow-Along: Arrays In it to win it  
+> [main.js](./Materials/class19-materials/arrays-in-it-to-win-it/js/main.js
+
+[ ] Follow-Along: Arrays Worldwide Cheersmack
+> [main.js](./Materials/class19-materials/arrays-worldwide-cheersmack/js/main.js
+
+[ ] Follow-Along: Bring it all or nothing
+> [main.js](./Materials/class19-materials/bring-it-on-all-or-nothing/js/main.js
+
+### Homework
+[ ] Read: [The JS Way Ch 6](https://github.com/thejsway/thejsway/blob/master/manuscript/chapter06.md)  
+[ ] Read: [The JS Way Ch 7](https://github.com/thejsway/thejsway/blob/master/manuscript/chapter07.md)  
+[ ] Read: [JS Array Methods](https://javascript.info/array-methods)  
+[ ] Read: [Eloquent JS Ch 4](https://eloquentjavascript.net/04_data.html)  
+[ ] Complete:  
+> [ ] [Codewars](https://codewars.com)  
+> [ ] [Day 04 - Array Cardio](https://javascript30.com)  
+
 ## Appendix
 > ### Supportive Material
 > [MSDN Web Docs][1]  
