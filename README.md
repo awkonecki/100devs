@@ -496,6 +496,38 @@ Material considerations include information starting from the 2022 cohort.
 > [Tasks of Objects the Basics](https://javascript.info/object-basics)  
 > [100 Devs Calculator](https://github.com/leonnoel/100devs-calculator)
 
+## Class 23
+### Material
+[ ] Watch: https://www.youtube.com/watch?v=qnmKELgyXc0&list=PLBf-QcbaigsJysJ-KFZvLGJvvW-3sfk1S&index=22  
+[ ] Follow-Along: Objects Dog Photos  
+> [main.js](./Materials/class23-materials/objects-dog-photos/js/main.js)  
+
+[ ] Follow-Along: Objects Lost Galazxy  
+> [main.js](./Materials/class23-materials/objects-lost-galaxy/js/main.js)  
+
+[ ] Follow-Along: Objects NASA  
+> [main.js](./Materials/class23-materials/objects-nasa/js/main.js)  
+
+[ ] Follow-Along: Objects Shots  
+> [main.js](./Materials/class23-materials/objects-shots/js/main.js)  
+
+[ ] Follow-Along: Objects Tony Hawk Pro Skater  
+> [main.js](./Materials/class23-materials/objects-tony-hawk-pro-skater/js/main.js)  
+
+[ ] Follow-Along: Space Review  
+> [main.js](./Materials/class23-materials/space-review/js/main.js)  
+
+[ ] Follow-Along: Turbo Review  
+> [main.js](./Materials/class23-materials/turbo-review/js/main.js)
+
+### Homework
+[ ] Watch:
+> [OOP in JS](https://www.youtube.com/watch?v=PFmuCDHHpwk)  
+> [Github for Beginners](https://www.youtube.com/watch?v=0fKg7e37bQE)  
+
+[ ] Complete:
+> [Introduction to Github](https://docs.microsoft.com/en-us/learn/modules/introduction-to-github/?ocid=aid3038567_RequestedResources_ThankYou_DevComm&eventId=LearnwithLeonstream_ggNxpTZxIzb_)
+
 ## Appendix
 > ### Supportive Material
 > [MSDN Web Docs][1]  
