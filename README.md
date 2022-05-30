@@ -172,6 +172,46 @@ Material considerations include information starting from the 2022 cohort.
 ### Homework
 [ ] Watch: https://www.youtube.com/watch?v=hdI2bqOjy3c
 
+## Class 11
+### Material
+[ ] Watch: https://www.youtube.com/watch?v=qEj0pXGVwjY&list=PLBf-QcbaigsJysJ-KFZvLGJvvW-3sfk1S&index=11  
+[ ] Follow-Along: Box Model Pratice  
+> [ ] [style.css](./Materials/class11-materials/box-model-practice/css/style.css)  
+> [ ] [index.html](./Materials/class11-materials/box-model-practice/index.html)  
+
+[ ] Follow-Along: BBC Layout  
+> [ ] [BBC](./Materials/class11-materials/class-layout-photos/bbc-image.png)  
+> [ ] [style.css](./Materials/class11-materials/layout1/css/style.css)  
+> [ ] [index.html](./Materials/class11-materials/layout1/index.html)
+
+[ ] Follow-Along: Khan-Academy Layout  
+> [ ] [khan-academy](./Materials/class11-materials/class-layout-photos/khan-academy.png)  
+> [ ] [style.css](./Materials/class11-materials/layout2/css/style.css)  
+> [ ] [index.html](./Materials/class11-materials/layout2/index.html)
+
+[ ] Follow-Along: Techcrunch Layout
+> [ ] [techcrunch](./Materials/class11-materials/class-layout-photos/techcrunch.png)  
+> [ ] [style.css](./Materials/class11-materials/layout3/css/style.css)  
+> [ ] [index.html](./Materials/class11-materials/layout3/index.html)
+
+[ ] Follow-Along: Media Query Practice  
+> [ ] [style.css](./Materials/class11-materials/media-query-practice/css/style.css)  
+> [ ] [index.html](./Materials/class11-materials/media-query-practice/index.html)
+
+[ ] Follow-Along: REM Practice
+> [ ] [style.css](./Materials/class11-materials/rem-practice/css/style.css)  
+> [ ] [index.html](./Materials/class11-materials/rem-practice/index.html)
+
+[ ] Additional Flexbox Practice  
+> [Free Code Camp CSS FlexBox](https://www.freecodecamp.org/news/css-flexbox-tutorial-with-cheatsheet/)  
+> [Flexbox Crach Course](https://www.youtube.com/watch?v=JJSoEo8JSnc)  
+> [Flexbox Zombie](https://mastery.games/flexboxzombies/)
+
+### Homework
+[ ] Complete: Layout & Media Queries  
+> [ ] [Restaurant](./Materials/class10-materials/layout-photos/cuisine-restaurant-mithun-ray.png)  
+> [ ] [Hair Salon](./Materials/class10-materials/layout-photos/hair-salon-ajmal-khan.webp)
+
 ## Appendix
 > ### Supportive Material
 > [MSDN Web Docs][1]
