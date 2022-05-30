@@ -337,10 +337,41 @@ Material considerations include information starting from the 2022 cohort.
 [ ] Complete: Setup personal portfolio
 [ ] Complete: Proposal/contract
 
+## Class 16
+### Material
+[ ] Watch: https://www.youtube.com/watch?v=AkXLGS57MS4&list=PLBf-QcbaigsJysJ-KFZvLGJvvW-3sfk1S&index=16  
+[ ] Follow Along: Age Checker  
+> [ ] [main.js](./Materials/class16-materials/age-checker/js/main.js)  
+
+[ ] Follow Along: Bring it on  
+> [ ] [main.js](./Materials/class16-materials/bring-it-on/js/main.js)  
+
+[ ] Follow Along: Bring it on Again  
+> [ ] [main.js](./Materials/class16-materials/bring-it-on-again/js/main.js)  
+
+[ ] Follow Along: Simple Functions  
+> [ ] [main.js](./Materials/class16-materials/simple-functions/js/main.js)  
+
+[ ] Follow Along: Sir Savage the 21st  
+> [ ] [main.js](./Materials/class16-materials/sir-savage-the-21st/js/main.js)  
+
+[ ] Follow Along: Stop Snacking  
+> [ ] [main.js](./Materials/class16-materials/stop-snacking/js/main.js)  
+
+[ ] Follow Along: Variable Fun Time  
+> [ ] [main.js](./Materials/class16-materials/variable-fun-time/js/main.js)  
+
+### Homework
+[ ] Read: [The JS Way][3]  
+[ ] Read: [Eloquent JS Chapters 1 - 3][4]  
+[ ] Complete: [Intro to JS Parts 1-6](https://www.codecademy.com/learn/introduction-to-javascript)
+
 ## Appendix
 > ### Supportive Material
 > [MSDN Web Docs][1]  
 > [JavaScript Info][2]  
+> [The JS Way][3]  
+> [Eloquent JS][4]  
 > [Example Contract][1000]  
 > [Webdev Proposal][1001]  
 
@@ -351,7 +382,9 @@ Material considerations include information starting from the 2022 cohort.
 > [Index.html][103]
 
 [1]: <https://developer.mozilla.org/en-US/docs/Web/HTML> "MSDN Web Docs"  
-[2]: <https://javascript.info> "JS Info"
+[2]: <https://javascript.info> "JS Info"  
+[3]: <https://github.com/thejsway/thejsway> "The JS Way"  
+[4]: <https://eloquentjavascript.net> "Eloquent JS"  
 [100]: ./Materials/class06-materials/template/css/normalize.css "Normalized CSS"  
 [101]: ./Materials/class06-materials/template/css/reset.css "Reset CSS"  
 [102]: ./Materials/class06-materials/template/css/style.css "Style CSS"  
