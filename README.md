@@ -595,6 +595,25 @@ Material considerations include information starting from the 2022 cohort.
 > [Code Academy - Learn JS](https://www.codecademy.com/learn/introduction-to-javascript)
 > [Professional Checklist](https://docs.google.com/document/d/1L2vTX3qvLhoGHeG5cVD2ljCfRGr1uJ_Gf-hNZj9KzTg)
 
+## Class 29
+### Material
+[ ] Watch: https://www.youtube.com/watch?v=EOjUT746oLs&list=PLBf-QcbaigsJysJ-KFZvLGJvvW-3sfk1S&index=28  
+[ ] Follow-ALong: Boulder Badge  
+> [main.js](./Materials/class29-materials/boulder-badge/js/main.js)  
+
+[ ] Follow-ALong: Cascade Badge  
+> [main.js](./Materials/class29-materials/cascade-badge/js/main.js)
+
+[ ] Follow-ALong: Rainbow Badge  
+> [main.js](./Materials/class29-materials/rainbow-badge/js/main.js)
+
+[ ] Follow-ALong: Thunder Badge  
+> [main.js](./Materials/class29-materials/thunder-badge/js/main.js)
+
+### Homework
+[ ] Read:  
+> [Understand OOP](https://github.com/thejsway/thejsway/blob/master/manuscript/chapter09.md)
+
 ## Appendix
 > ### Supportive Material
 > [MSDN Web Docs][1]  
