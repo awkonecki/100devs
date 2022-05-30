@@ -632,6 +632,15 @@ Material considerations include information starting from the 2022 cohort.
 [ ] Follow-Along: Objects Child Class  
 > [main.js](./Materials/class31-materials/objects-child-class/js/main.js)
 
+## Class 32
+### Material
+[ ] Watch: https://www.youtube.com/watch?v=yEhs4XtuAgA&list=PLBf-QcbaigsJysJ-KFZvLGJvvW-3sfk1S&index=31
+[ ] Follow-Along: Complete  
+> [main.js](./Materials/class32-materials/complete/js/main.js)
+
+[ ] Follow-Along: Objects Practice  
+> [main.js](./Materials/class32-materials/objects-practice/js/main.js)
+
 ## Appendix
 > ### Supportive Material
 > [MSDN Web Docs][1]  
