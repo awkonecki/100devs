@@ -58,6 +58,31 @@ Material considerations include information starting from the 2022 cohort.
 > [ ] Complete: https://www.typingtest.com  
 > [ ] Complete: https://www.keybr.com
 
+## Day 5
+> ### Material
+> [ ] Watch: https://www.youtube.com/watch?v=E6Z8cWU_fjI&list=PLBf-QcbaigsJysJ-KFZvLGJvvW-3sfk1S&index=5  
+> [ ] Follow-Along: Basic-CSS
+>> [ ] [style.css](./Materials/class05-materials/basic-css-two/css/style.css)  
+>> [ ] [main.js](./Materials/class05-materials/basic-css-two/js/main.js)  
+>> [ ] [index.html](./Materials/class05-materials/basic-css-two/index.html)
+>
+> [ ] Follow-Along: Relationship-CSS
+>> [ ] [style.css](./Materials/class05-materials/relationship-css-two/css/style.css)  
+>> [ ] [main.js](./Materials/class05-materials/relationship-css-two/js/main.js)  
+>> [ ] [index.html](./Materials/class05-materials/relationship-css-two/index.html)
+>
+> [ ] Follow-Along: Specificity-Practice  
+>> [ ] [style.css](./Materials/class05-materials/specificity-practice/css/style.css)  
+>> [ ] [main.js](./Materials/class05-materials/specificity-practice/js/main.js)  
+>> [ ] [index.html](./Materials/class05-materials/specificity-practice/index.html)  
+
+> ### Homework
+> [ ] Read: https://learn.shayhowe.com/advanced-html-css/responsive-web-design/  
+> [ ] Read: https://learn.shayhowe.com/advanced-html-css/  
+> [ ] Complete: [Layout 1](./Materials/class05-materials/layout1.png)  
+> [ ] Complete: [Layout 2](./Materials/class05-materials/layout2.png)  
+> [ ] Complete: [Layout 3](./Materials/class05-materials/layout3.png)
+
 ## Appendix
 > ### Supportive Material
 > [MSDN Web Docs][1]
