@@ -614,6 +614,15 @@ Material considerations include information starting from the 2022 cohort.
 [ ] Read:  
 > [Understand OOP](https://github.com/thejsway/thejsway/blob/master/manuscript/chapter09.md)
 
+## Class 30
+### Material
+[ ] Watch: https://www.youtube.com/watch?v=GihfY5OVDdk&list=PLBf-QcbaigsJysJ-KFZvLGJvvW-3sfk1S&index=29  
+[ ] Follow-Along: Objects Espresso Machine  
+> [main.js](./Materials/class30-materials/objects-espresso-machine/js/main.js)
+
+[ ] Follow-Along: Scratch
+> [main.js](./Materials/class30-materials/scratch/js/main.js)
+
 ## Appendix
 > ### Supportive Material
 > [MSDN Web Docs][1]  
