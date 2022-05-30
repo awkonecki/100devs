@@ -463,6 +463,39 @@ Material considerations include information starting from the 2022 cohort.
 [ ] Read:  
 > [ ] [JS Objects](https://javascript.info/object)
 
+## Class 22
+### Material
+[ ] Watch: https://www.youtube.com/watch?v=qnmKELgyXc0&list=PLBf-QcbaigsJysJ-KFZvLGJvvW-3sfk1S&index=22  
+[ ] Follow-Along: Objects Dog Photos  
+> [main.js](./Materials/class22-materials/objects-dog-photos/js/main.js)  
+
+[ ] Follow-Along: Objects Lost Galaxy  
+> [main.js](./Materials/class22-materials/objects-lost-galaxy/js/main.js)
+
+[ ] Follow-Along: Objects NASA  
+> [main.js](./Materials/class22-materials/objects-nasa/js/main.js)
+
+[ ] Follow-Along: Objects Shots  
+> [main.js](./Materials/class22-materials/objects-shots/js/main.js)
+
+[ ] Follow-Along: Objects Street Fighter  
+> [main.js](./Materials/class22-materials/objects-street-fighter/js/main.js)
+
+[ ] Follow-Along: Space Review  
+> [main.js](./Materials/class22-materials/space-review/js/main.js)
+
+[ ] Follow-Along: Turbo Review  
+> [main.js](./Materials/class22-materials/turbo-review/js/main.js)
+
+### Homework
+[ ] Read:
+> [Four Pillars of OOP](https://medium.com/@hamzzza.ahmed95/four-pillars-of-object-oriented-programming-oop-e8d7822aa219)  
+> [Objects the Basics](https://javascript.info/object-basics)  
+
+[ ] Complete:
+> [Tasks of Objects the Basics](https://javascript.info/object-basics)  
+> [100 Devs Calculator](https://github.com/leonnoel/100devs-calculator)
+
 ## Appendix
 > ### Supportive Material
 > [MSDN Web Docs][1]  
