@@ -563,6 +563,18 @@ Material considerations include information starting from the 2022 cohort.
 > [ ] CocktailDB API work w/ spaces  
 > [ ] Find three APIs & build three simple apps using those APIs [Refer](https://github.com/public-apis/public-apis)
 
+## Class 27
+### Material
+[ ] Watch: https://www.youtube.com/watch?v=b5rjEW-_6po&list=PLBf-QcbaigsJysJ-KFZvLGJvvW-3sfk1S&index=26  
+[ ] Follow-Along: API Template  
+> [main.js](./Materials/class27-materials/api-template/js/main.js)  
+
+[ ] Follow-Along: Local Storage BotScore Button  
+> [main.js](./Materials/class27-materials/local-storage-botScore-button/js/main.js)
+
+[ ] Follow-Along: Objects Netflix TV Shows  
+> [main.js](./Materials/class27-materials/objects-netflix-tv-shows/js/main.js)
+
 ## Appendix
 > ### Supportive Material
 > [MSDN Web Docs][1]  
