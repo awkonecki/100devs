@@ -641,6 +641,19 @@ Material considerations include information starting from the 2022 cohort.
 [ ] Follow-Along: Objects Practice  
 > [main.js](./Materials/class32-materials/objects-practice/js/main.js)
 
+## Class 33
+### Material
+[ ] Watch: https://www.youtube.com/watch?v=lIE1LFz4LJM&list=PLBf-QcbaigsJysJ-KFZvLGJvvW-3sfk1S&index=32  
+
+### Homework
+Watch:
+> [ ] [Fiteship - Async Await](https://www.youtube.com/watch?v=vn3tm0quoqE)  
+> [ ] [Traversy Media - Node.js Crach Course](https://www.youtube.com/watch?v=fBNz5xF-Kx4)
+
+Read:
+> [ ] [MSDN - Promises](https://developer.mozilla.org/en-US/docs/learn/javascript/asynchronous/promises)  
+> [ ] [Modern JS for Dinosaurs](https://medium.com/the-node-js-collection/modern-javascript-explained-for-dinosaurs-f695e9747b70)
+
 ## Appendix
 > ### Supportive Material
 > [MSDN Web Docs][1]  
