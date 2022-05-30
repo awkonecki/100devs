@@ -575,6 +575,26 @@ Material considerations include information starting from the 2022 cohort.
 [ ] Follow-Along: Objects Netflix TV Shows  
 > [main.js](./Materials/class27-materials/objects-netflix-tv-shows/js/main.js)
 
+## Class 28
+### Material
+[ ] Watch: https://www.youtube.com/watch?v=G7XJRLaq2Cw&list=PLBf-QcbaigsJysJ-KFZvLGJvvW-3sfk1S&index=27  
+[ ] Follow-Along: API Template  
+> [main.js](./Materials/class28-materials/api-template/js/main.js)
+
+[ ] Follow-Along: Card Game  
+> [main.js](./Materials/class28-materials/card-game/js/main.js)
+
+[ ] Follow-Along: DnD  
+> [main.js](./Materials/class28-materials/dnd/js/main.js)
+
+[ ] Follow-Along: Local Storage BotScore Button  
+> [main.js](./Materials/class28-materials/local-storage-botScore-button/js/main.js)
+
+### Homework
+[ ] Complete:
+> [Code Academy - Learn JS](https://www.codecademy.com/learn/introduction-to-javascript)
+> [Professional Checklist](https://docs.google.com/document/d/1L2vTX3qvLhoGHeG5cVD2ljCfRGr1uJ_Gf-hNZj9KzTg)
+
 ## Appendix
 > ### Supportive Material
 > [MSDN Web Docs][1]  
