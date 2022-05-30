@@ -121,6 +121,33 @@ Material considerations include information starting from the 2022 cohort.
 ### Homework
 [ ] Complete: http://flexboxfroggy.com
 
+## Class 08
+### Material
+[ ] Watch: https://www.youtube.com/watch?v=PWVRSXQxsXc&list=PLBf-QcbaigsJysJ-KFZvLGJvvW-3sfk1S&index=8
+[ ] Follow-Along: Box Model Pratice  
+> [ ] [style.css](./Materials/class08-materials/box-model-practice/css/style.css)  
+> [ ] [index.html](./Materials/class08-materials/box-model-practice/index.html)  
+
+[ ] Follow-Along: BBC Layout  
+> [ ] [BBC](./Materials/class08-materials/class-layout-photos/bbc-image.png)  
+> [ ] [style.css](./Materials/class08-materials/layout1/css/style.css)  
+> [ ] [index.html](./Materials/class08-materials/layout1/index.html)
+
+[ ] Follow-Along: Khan-Academy Layout  
+> [ ] [khan-academy](./Materials/class08-materials/class-layout-photos/khan-academy.png)  
+> [ ] [style.css](./Materials/class08-materials/layout2/css/style.css)  
+> [ ] [index.html](./Materials/class08-materials/layout2/index.html)
+
+[ ] Follow-Along: Techcrunch Layout
+> [ ] [techcrunch](./Materials/class08-materials/class-layout-photos/techcrunch.png)  
+> [ ] [style.css](./Materials/class08-materials/layout3/css/style.css)  
+> [ ] [index.html](./Materials/class08-materials/layout3/index.html)
+
+### Homework
+[ ] Complete: [Level Ground Layout & Media Queries](./Materials/class08-materials/homework-layout-photos/level-ground-wireframe.png)  
+[ ] Complete: [Pushwork Layout & Media Queries](./Materials/class08-materials/homework-layout-photos/pushwork-homepage-wireframe-sergey-pikin.webp)  
+[ ] Complete: [Source Layout & Media Queries](./Materials/class08-materials/homework-layout-photos/source-wireframe-max-schneider.webp)
+
 ## Appendix
 > ### Supportive Material
 > [MSDN Web Docs][1]
